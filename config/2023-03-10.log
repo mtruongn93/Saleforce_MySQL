@@ -1,0 +1,8 @@
+2023-03-10 04:04:20,682:INFO:Credential obtained
+2023-03-10 04:04:21,028:INFO:Saleforce Access Token obtained
+2023-03-10 04:04:21,163:INFO:Open MySQL connection
+2023-03-10 04:04:23,121:ERROR:Wrong Email in error/2023-03-10.csv
+2023-03-10 04:04:23,152:INFO:Data preprocessed
+2023-03-10 04:04:23,169:INFO:All conditions checked
+2023-03-10 04:04:23,169:INFO:Inserting to MySQL database
+2023-03-10 04:04:24,044:INFO:Inserted
